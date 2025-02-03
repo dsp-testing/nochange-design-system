@@ -43,7 +43,7 @@
     "@giantnodes/prettier-config": "workspace:*",
     "@giantnodes/tsconfig": "workspace:*",
     "@jest/types": "^29.6.3",
-    "@storybook/addon-backgrounds": "^8.4.7",
+    "@storybook/addon-backgrounds": "^8.5.3",
     "@storybook/addon-essentials": "^8.4.7",
     "@storybook/addon-interactions": "^8.4.7",
     "@storybook/addon-links": "^8.4.7",
