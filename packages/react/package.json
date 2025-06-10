@@ -42,7 +42,7 @@
     "@giantnodes/eslint-config": "workspace:*",
     "@giantnodes/prettier-config": "workspace:*",
     "@giantnodes/tsconfig": "workspace:*",
-    "@jest/types": "^29.6.3",
+    "@jest/types": "^30.0.0",
     "@storybook/addon-backgrounds": "^8.4.7",
     "@storybook/addon-essentials": "^8.4.7",
     "@storybook/addon-interactions": "^8.4.7",
